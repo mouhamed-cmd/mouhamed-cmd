@@ -28,18 +28,10 @@ Passionate about technology, security, and building smart, scalable tools that m
 
 ---
 
-## 📘 **Résumé**
-
-You can download my full résumé here:
-📄 **[Download Résumé](#)** img/resume.pdf
-
----
-
 ## 📫 **Contact**
 
-* ✉️ Email: **[your-email@example.com](mailto:your-email@example.com)**
-* 🔗 LinkedIn: *[Your LinkedIn Link](#)*
-* 🌐 Portfolio Website (optional): *[Insert link if you have one]*
+* ✉️ Email: **[kanemouhamed2@gmail.com](mailto:kanemouhamed2@gmail.com)**
+* 🔗 LinkedIn: https://www.linkedin.com/in/mouhamedkane/
 
 ---
 
