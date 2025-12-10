@@ -31,7 +31,7 @@ Passionate about technology, security, and building smart, scalable tools that m
 ## 📘 **Résumé**
 
 You can download my full résumé here:
-📄 **[Download Résumé](#)** *(Replace with your actual link)*
+📄 **[Download Résumé](#)** img/resume.pdf
 
 ---
 
