@@ -36,7 +36,7 @@ Passionate about technology, security, and building smart, scalable tools that m
 ---
 
 ## ⚡ **What I’m Working On**
-
+* [Technical Writing Projects](https://github.com/mouhamed-cmd/Technical-Writing)
 * Building stronger AI engineering skills
 * Creating cinematic military-themed AI content
 * Strengthening cloud security & automation
