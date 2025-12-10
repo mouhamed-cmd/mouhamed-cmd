@@ -1,9 +1,9 @@
 
-# 👋 Hi, I’m **Mouhamed Kane**
+# Hi, I’m **Mouhamed Kane**
 
 ### 🚀 U.S. Army • Cybersecurity | Cloud | AI Engineering (in progress)
 
-Passionate about technology, security, and building smart, scalable tools that make real impact. My work blends military discipline with modern engineering—creating solutions that are efficient, reliable, and mission-ready.
+Passionate about technology, security, and building smart, scalable tools that make real impact. My work blends military discipline with modern engineering, creating solutions that are efficient, reliable, and mission-ready.
 
 ---
 
@@ -25,36 +25,6 @@ Passionate about technology, security, and building smart, scalable tools that m
 * **AI Tools:** Suno, Runway, Kling AI, OpenAI models
 * **Writing:** APA 7 research reports, proposals, progress reports, manuals, and technical communication
 * **Creative:** Prompt engineering, video scripts, voice-over writing
-
----
-
-## 📂 **Featured Projects**
-
-### 🎤 **AI Music & Suno Projects**
-
-Fun, military-themed AI music tracks and cadence-style beats.
-👉 *[Project Link Placeholder](#)*
-
----
-
-### 🎥 **Kling AI Video Prompts**
-
-Cinematic military videos created using advanced prompt engineering.
-👉 *[Project Link Placeholder](#)*
-
----
-
-### 🛡️ **Cybersecurity Reports & Assignments**
-
-Incident reports, data protection policies, detection/analysis writeups, and more—APA 7 formatted.
-👉 *[Project Link Placeholder](#)*
-
----
-
-### 📄 **Technical Writing Portfolio**
-
-Professional emails, proposals, research work, discussion posts, and structured documentation.
-👉 *[Project Link Placeholder](#)*
 
 ---
 
