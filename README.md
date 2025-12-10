@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/mouhamed-cmd/ActiveDirectioryLab))
+  - [Active Directory Home lab](https://github.com/mouhamed-cmd/ActiveDirectioryLab)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
